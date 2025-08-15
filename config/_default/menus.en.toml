@@ -15,7 +15,12 @@
  pageRef = "posts"
  weight = 10
 
-#[[main]]
+[[main]]
+ name = "About"
+ url = "/about/"
+ weight = 2
+
+# [[main]]
 #  name = "Parent"
 #  weight = 20
 
