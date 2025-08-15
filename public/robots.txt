@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pedrolucaslco.github.io/sitemap.xml
