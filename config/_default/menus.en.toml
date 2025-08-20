@@ -20,6 +20,11 @@
  url = "/about/"
  weight = 2
 
+[[main]]
+ name = "Projects"
+ url = "/projects/"
+ weight = 3
+
 # [[main]]
 #  name = "Parent"
 #  weight = 20
