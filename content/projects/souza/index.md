@@ -1,6 +1,7 @@
 ---
 title: "Souza Vidraçaria"
-draft:false
+date: 2025-08-24
+draft: false
 ---
 
 EN
